@@ -22,5 +22,8 @@ Implementações futuras:
 //Deve retornar true se os elementos estiverem
 conectados indiretamente
 //fazer exceptions//try catch
-//A classe pode ter quantos membros privados ou protegidos forem necessários para uma boa implementação.
+//A classe pode ter
+quantos membros privados ou protegidos forem necessários para uma boa implementação.
 //poo - classe network (rede)
+
+//obs: Foi mudado nome do projeto caso algum problema de execução de Teste2.0 para Teste, já existia outro Teste do projeto inicial do começo entre a solução, na verdade mais dois projetos, porem resolvi retira -los para nao confundir com o projeto de produção, caso queira ve - los as ideias anteriores, posso enviar também.
